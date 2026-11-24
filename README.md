@@ -49,19 +49,19 @@ Constructed through **empirical complaint-driven telemetry modeling**—calibrat
 ## Executive Dashboard Architecture (Power BI)
 
 ### Page 01 · Executive Revenue Integrity Command
-![Executive Overview](screenshots/01_executive_overview.png)
+![Executive Overview](dashboard/01_executive_overview.png)
 
 ### Page 02 · OTA Settlement Deadlocks & PNR Overwrite Forensics
-![OTA and PNR Leakage](screenshots/02_ota_pnr_leakage.png)
+![OTA and PNR Leakage](dashboard/02_ota_pnr_leakage.png)
 
 ### Page 03 · Sharjah (`SHJ`) Hub Squeeze & Gate Offload Telemetry
-![Hub and Gate Offloads](screenshots/03_hub_gate_offloads.png)
+![Hub and Gate Offloads](dashboard/03_hub_gate_offloads.png)
 
 ---
 
 ## Repository Contents & Scope Disclaimer
 * `Forensic Operations and Revenue Integrity Report.pdf` — Full executive audit report & visual breakdown.
 * `SourceCode.sql` — Schema architecture overview & executive briefing notice (remediation logic restricted).
-* `/screenshots/` — High-resolution exports of the 3-page Power BI executive command dashboard.
+* `/dashboard/` — High-resolution exports of the 3-page Power BI executive command dashboard.
 
 **Analytical Scope Disclaimer:** This is an independent operational analytics audit constructed via empirical complaint-driven telemetry modeling across 203,389 relational records calibrated to Air Arabia (`G9`) hub networks (`SHJ`/`AUH`) and international aviation regulatory frameworks. Financial figures represent model-derived exposure estimates rather than official Air Arabia accounting disclosures.

@@ -1,11 +1,5 @@
 # Air Arabia (G9): Backend Revenue Integrity & Silent Churn Forensic Audit
 
-![Audit Window](https://shields.io)
-![Records Audited](https://shields.io)
-![Immediate Exposure](https://shields.io)
-![Leakage Rate](https://shields.io)
-![Remediation Pipeline](https://shields.io)
-
 ## Executive Summary
 While headline seat load factors (83%–85%) indicate strong top-line demand, operational telemetry across **65,000 Passenger Name Records (PNRs)**, **2,400 flights**, and **82,703 checked baggage tags** exposes severe backend revenue erosion caused by asynchronous software states, third-party Online Travel Agency (OTA) settlement deadlocks, and compressed hub transfer windows.
 
